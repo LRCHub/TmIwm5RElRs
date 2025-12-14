@@ -1,0 +1,27 @@
+# The Ink Spots – I Don't Want to Set the World on Fire
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I don't want to set the world on fire
+I just want to start a flame in your heart
+
+In my heart I have but one desire
+And that one is you, no other will do
+
+I've lost all ambition for worldly acclaim
+I just want to be the one you love
+And with your admission that you'd feel the same
+I'll have reached the goal I'm dreaming of, believe me
+
+I don't want to set the world on fire
+I just want to start a flame in your heart
+
+I've lost all ambition for worldly acclaim
+I just want to be the one you love
+And with your admission that you'd feel the same
+I'll have reached the goal I'm dreaming of, believe me
+
+I don't want to set the world on fire
+I just want to start a flame in your heart
+```
