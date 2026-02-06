@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "I Don't Want to Set the World on Fire",
   "base_artist": "The Ink Spots",
-  "createdAt": "2025-12-14T08:50:28.796660Z",
+  "createdAt": "2026-02-06T16:38:21.681430Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -39,34 +39,34 @@
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "I Don't Want To Set The World On Fire",
-      "artist": "Soundtracks",
+      "title": "I don't Want To Set The World On Fire",
+      "artist": "Inkspots",
       "has_synced": true,
-      "path": "select/05_I_Don't_Want_To_Set_The_World_On_Fire_Soundtracks.lrc"
+      "path": "select/05_I_don't_Want_To_Set_The_World_On_Fire_Inkspots.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "I Don't Want to Set the World On Fire",
-      "artist": "The Ladybugs",
+      "title": "I Don't Want To Set The World On Fire",
+      "artist": "Soundtracks",
       "has_synced": true,
-      "path": "select/06_I_Don't_Want_to_Set_the_World_On_Fire_The_Ladybugs.lrc"
+      "path": "select/06_I_Don't_Want_To_Set_The_World_On_Fire_Soundtracks.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "I Don't Want to Set the World on Fire",
-      "artist": "Mills Brothers",
-      "has_synced": false,
-      "path": "select/07_I_Don't_Want_to_Set_the_World_on_Fire_Mills_Brothers.txt"
+      "title": "I Don't Want to Set the World On Fire",
+      "artist": "The Ladybugs",
+      "has_synced": true,
+      "path": "select/07_I_Don't_Want_to_Set_the_World_On_Fire_The_Ladybugs.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "I Don't Want To Set The World On Fire",
-      "artist": "Vera Lynn",
-      "has_synced": true,
-      "path": "select/08_I_Don't_Want_To_Set_The_World_On_Fire_Vera_Lynn.lrc"
+      "title": "I Don't Want to Set the World on Fire",
+      "artist": "Mills Brothers",
+      "has_synced": false,
+      "path": "select/08_I_Don't_Want_to_Set_the_World_on_Fire_Mills_Brothers.txt"
     },
     {
       "id": "lrclib_9",
@@ -80,73 +80,73 @@
       "id": "lrclib_10",
       "source": "lrclib",
       "title": "I Don't Want To Set The World On Fire",
-      "artist": "Brian Hyland",
+      "artist": "Vera Lynn",
       "has_synced": true,
-      "path": "select/10_I_Don't_Want_To_Set_The_World_On_Fire_Brian_Hyland.lrc"
+      "path": "select/10_I_Don't_Want_To_Set_The_World_On_Fire_Vera_Lynn.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
       "title": "I Don't Want To Set The World On Fire",
-      "artist": "Country",
+      "artist": "Brian Hyland",
       "has_synced": true,
-      "path": "select/11_I_Don't_Want_To_Set_The_World_On_Fire_Country.lrc"
+      "path": "select/11_I_Don't_Want_To_Set_The_World_On_Fire_Brian_Hyland.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "I Don’t Want To Set The World On Fire",
-      "artist": "The Ink Spots",
+      "title": "I Don't Want To Set The World On Fire",
+      "artist": "Country",
       "has_synced": true,
-      "path": "select/12_I_Don’t_Want_To_Set_The_World_On_Fire_The_Ink_Spots.lrc"
+      "path": "select/12_I_Don't_Want_To_Set_The_World_On_Fire_Country.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "I Don't Want to Set the World on Fire",
+      "title": "I Don’t Want To Set The World On Fire",
       "artist": "The Ink Spots",
       "has_synced": true,
-      "path": "select/13_I_Don't_Want_to_Set_the_World_on_Fire_The_Ink_Spots.lrc"
+      "path": "select/13_I_Don’t_Want_To_Set_The_World_On_Fire_The_Ink_Spots.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "I Don't Want To Set The World On Fire",
-      "artist": "Fats Domino",
+      "title": "I Don't Want to Set the World on Fire",
+      "artist": "The Ink Spots",
       "has_synced": true,
-      "path": "select/14_I_Don't_Want_To_Set_The_World_On_Fire_Fats_Domino.lrc"
+      "path": "select/14_I_Don't_Want_to_Set_the_World_on_Fire_The_Ink_Spots.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "I Don't Want to Set the World on Fire",
-      "artist": "The Ink Spots",
+      "title": "I Don’t Want to Set the World on Fire",
+      "artist": "Vera Lynn",
       "has_synced": true,
-      "path": "select/15_I_Don't_Want_to_Set_the_World_on_Fire_The_Ink_Spots.lrc"
+      "path": "select/15_I_Don’t_Want_to_Set_the_World_on_Fire_Vera_Lynn.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
       "title": "I Don't Want to Set the World on Fire",
-      "artist": "The Ink Spots",
-      "has_synced": true,
-      "path": "select/16_I_Don't_Want_to_Set_the_World_on_Fire_The_Ink_Spots.lrc"
+      "artist": "Ink Spots",
+      "has_synced": false,
+      "path": "select/16_I_Don't_Want_to_Set_the_World_on_Fire_Ink_Spots.txt"
     },
     {
       "id": "lrclib_17",
       "source": "lrclib",
       "title": "I Don't Want To Set The World On Fire",
-      "artist": "The Ink Spots",
+      "artist": "Fats Domino",
       "has_synced": true,
-      "path": "select/17_I_Don't_Want_To_Set_The_World_On_Fire_The_Ink_Spots.lrc"
+      "path": "select/17_I_Don't_Want_To_Set_The_World_On_Fire_Fats_Domino.lrc"
     },
     {
       "id": "lrclib_18",
       "source": "lrclib",
-      "title": "I Don't Want To Set The World On Fire-The Ink Spots",
-      "artist": "renatikkio",
+      "title": "I Don't Want to Set the World on Fire",
+      "artist": "The Ink Spots",
       "has_synced": true,
-      "path": "select/18_I_Don't_Want_To_Set_The_World_On_Fire-The_Ink_Spots_renatikkio.lrc"
+      "path": "select/18_I_Don't_Want_to_Set_the_World_on_Fire_The_Ink_Spots.lrc"
     },
     {
       "id": "petitlyrics_1",
